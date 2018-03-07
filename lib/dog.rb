@@ -1,5 +1,5 @@
 class Dog 
-  chloe = Dog.new
+  fido = Dog.new
   bella = Dog.new 
   buster = Dog.new 
 end
