@@ -5,8 +5,8 @@ class Dog
 end
 
 class Person 
-  jonathan = Person.new 
-  grant = Person.new 
+  adele_goldberg = Person.new 
+  alan_kay = Person.new 
   scott = Person.new
   
   
